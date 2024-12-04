@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey, i am a software developer who creates simple games with Python in the free time. 
+Im currently working on my *Legendary cooperative fantasy card/board game*.  
 
-<!--
-**michalrajkowski/michalrajkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you for some reason want to reach out, message me at
+![My mail as image to be protected from crawling bots :D](email_image.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Game Jam Games:
+- [GMTK Game Jam 2024](https://github.com/michalrajkowski/gmtk_game_jam_2024)
+- [TK Game Jam : The bonus level](https://github.com/michalrajkowski/tk_game_jam_bonus_level)
+- [One hour game jams](https://github.com/michalrajkowski/one_hour_game_jam)
+
+Or visit [my website](https://michalrajkowski.github.io/) to play some of them in the browser. 
+
+Extras:
+- 🎄 [advent-of-code](https://github.com/michalrajkowski/advent-of-code) 🎄
