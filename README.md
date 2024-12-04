@@ -1,7 +1,8 @@
 Hey, i am a software developer who creates simple games with Python in the free time. 
 Im currently working on my *Legendary cooperative fantasy card/board game*.  
 
-If you for some reason want to reach out, message me at
+If you for some reason want to reach out, message me at:
+
 ![My mail as image to be protected from crawling bots :D](email_image.png)
 
 
