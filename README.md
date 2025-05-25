@@ -12,7 +12,7 @@ Game Jam Games:
 - [TK Game Jam : The bonus level](https://github.com/michalrajkowski/tk_game_jam_bonus_level)
 - [One hour game jams](https://github.com/michalrajkowski/one_hour_game_jam)
 
-Or visit [my website](https://michalrajkowski.github.io/) to play some of them in the browser. 
+Or visit my [itch.io profile](https://michalrajkowski.itch.io/) or [my website](https://michalrajkowski.github.io/) to play some of them in the browser.
 
 Extras:
 - 🎄 [advent-of-code](https://github.com/michalrajkowski/advent-of-code) 🎄
