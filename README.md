@@ -8,7 +8,7 @@ If you for some reason want to reach out, message me at:
 
 
 Game Jam Games:
-- [GMTK Game Jam 2025](https://github.com/michalrajkowski/gmtk_2025) - cool game about time travel and cooperating with yourself, easly available on [itch.io](https://michalrajkowski.itch.io/gmtk-2025)
+- [GMTK Game Jam 2025](https://github.com/michalrajkowski/gmtk_2025) 🖱️ - cool game about time travel and cooperating with yourself, easly available on [itch.io](https://michalrajkowski.itch.io/gmtk-2025)
 - [GMTK Game Jam 2024](https://github.com/michalrajkowski/gmtk_game_jam_2024)
 - [TK Game Jam : The bonus level](https://github.com/michalrajkowski/tk_game_jam_bonus_level)
 - [One hour game jams](https://github.com/michalrajkowski/one_hour_game_jam)
